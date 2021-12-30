@@ -16,8 +16,14 @@
 ![4](https://user-images.githubusercontent.com/85280844/147725795-d6f257b3-25d2-4fec-85dd-65050663c336.PNG)
 
 
+#특이사항
+Token은 OAuth2.0 사용
+각 Url은 post/get filter 걸어서 특정 작업만 수행 가능
+Releases key는 작업수행 시 필요 (고유한 값임)
+작업실행시에 리턴되는 key로 작업 상태 파악 가능 (실행마다 매번 다름)
 
 
+#
 1. 사용자 인증
   - call : 아이디와 비밀번호
   - return  : O -> 인증 완료 메시지 전송
