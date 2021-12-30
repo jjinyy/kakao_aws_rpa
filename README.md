@@ -3,6 +3,13 @@
 - AWS 기반의 서비스(Lambda, S3, API Gateway 등)를 이용해 물리적인 환경(서버, 네트워크)에 제약이 없음
 - 대부분의 스마트폰 유저가 사용하고 있는 카카오 톡을 이용해 손쉬운 RPA 접근 가능
 
+![1](https://user-images.githubusercontent.com/85280844/147725776-f14e29ea-150d-4a51-ae63-d450bba8b556.PNG)
+![2](https://user-images.githubusercontent.com/85280844/147725782-42891d30-c747-4914-8254-ee66e91fd213.PNG)
+![3](https://user-images.githubusercontent.com/85280844/147725790-1138ca7d-686e-4856-a780-adc1edc94ce9.PNG)
+![4](https://user-images.githubusercontent.com/85280844/147725795-d6f257b3-25d2-4fec-85dd-65050663c336.PNG)
+
+
+
 
 1. 사용자 인증
   - call : 아이디와 비밀번호
