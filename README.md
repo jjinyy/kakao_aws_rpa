@@ -17,10 +17,10 @@
 
 
 #특이사항
-Token은 OAuth2.0 사용
-각 Url은 post/get filter 걸어서 특정 작업만 수행 가능
-Releases key는 작업수행 시 필요 (고유한 값임)
-작업실행시에 리턴되는 key로 작업 상태 파악 가능 (실행마다 매번 다름)
+- Token은 OAuth2.0 사용
+- 각 Url은 post/get filter 걸어서 특정 작업만 수행 가능
+- Releases key는 작업수행 시 필요 (고유한 값임)
+- 작업실행시에 리턴되는 key로 작업 상태 파악 가능 (실행마다 매번 다름)
 
 
 #
